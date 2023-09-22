@@ -7,7 +7,7 @@ This Python script (`main.py`) is designed to scrape football match details from
 1. Clone this repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/D7x00/ScraperMatchs.git
 ```
 
 2. Navigate to the project directory:
